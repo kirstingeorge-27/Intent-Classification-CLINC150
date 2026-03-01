@@ -35,3 +35,5 @@ Pre-trained BERT (bert-base-uncased) fine-tuned for multi-class classification.
 
 ## Author
 KIRSTIN SUSAN GEORGE
+
+https://colab.research.google.com/drive/1IlsF4qUymbGSckTKHzoGneVs5vYrsYd0?usp=drive_link
