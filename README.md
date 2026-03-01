@@ -34,4 +34,4 @@ Pre-trained BERT (bert-base-uncased) fine-tuned for multi-class classification.
    python evaluate.py
 
 ## Author
-Your Name
+KIRSTIN SUSAN GEORGE
